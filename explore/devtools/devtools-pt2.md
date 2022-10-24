@@ -1,0 +1,2 @@
+1. The bug is that the input numbers are recorded as string instead of number. Thus, + in calculateSum concatenate the input number as a string instead summing them up. 
+2. use parseInt() to convert input numbers to integers before calculation.
